@@ -1,0 +1,6 @@
+[submodule "pack/pletiniai/start/vim-airline"]
+	path = pack/pletiniai/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/pletiniai/start/nerdtree"]
+	path = pack/pletiniai/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
