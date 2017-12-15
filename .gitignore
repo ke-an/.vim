@@ -1,4 +1,4 @@
-# Do not add vim plugins
+# do not add vim plugins
 pack/pletiniai/start/**
 
 # ignore vim swap files
